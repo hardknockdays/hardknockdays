@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hardknockdays
+- 👋 Hi, I’m Ardy Rendra
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
