@@ -1,4 +1,4 @@
-# 👨‍💻 Ardy Rendra 
+# 👨‍💻 Ardy Ren
 
 Web Programmer with over **5 years of experience** building applications using **PHP, JavaScript, Node.js, and Python**.  
 Focused on **backend development, API integration, server management, bot automation**, and cross-platform development with **Arduino, C++, C#, and Delphi**.  
