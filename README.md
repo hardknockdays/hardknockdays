@@ -51,3 +51,13 @@ Focused on **backend development, API integration, server management, bot automa
 - **Automation Tools** for multimedia & educational content distribution  
 - **Embedded Projects** using Arduino (IoT & device control)  
 - **Desktop Applications** with C#, Delphi, and C++  
+
+
+## 🌐 Temukan saya di sini
+- 🐙 GitHub → [RENPWN](https://github.com/hardknockdays)  
+- 📸 Instagram → [renpwn_ren](https://instagram.com/renpwn_ren)  
+- ▶️ YouTube → [@RenPwn](https://www.youtube.com/@RenPwn)  
+- 🎵 TikTok → [renpwn](https://www.tiktok.com/@renpwn)  
+- 🛍️ TikTok Shop → [RenPwn](https://www.tiktok.com/@renpwn/shop)  
+- 🏬 Tokopedia → [renpwn](https://tokopedia.com/renpwn)  
+- 🛒 Shopee → [renpwn](https://shopee.co.id/renpwn)  
