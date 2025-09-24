@@ -14,8 +14,7 @@ Focused on **backend development, API integration, server management, bot automa
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Google Cloud SQL](https://img.shields.io/badge/Cloud%20SQL-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
 ### 🔹 Server & Tools  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=white)  
 
 ### 🔹 API & Integrations  
 ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=api&logoColor=white) ![SOAP](https://img.shields.io/badge/SOAP-FF6C37?style=for-the-badge&logo=xml&logoColor=white) ![YouTube API](https://img.shields.io/badge/YouTube%20API-FF0000?style=for-the-badge&logo=youtube&logoColor=white)  
