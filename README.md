@@ -32,11 +32,6 @@ Focused on **backend development, API integration, server management, bot automa
 
 
 ## 🌐 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardknockdays)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/renpwn_ren)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RenPwn)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renpwn)
-[![TikTok Shop](https://img.shields.io/badge/TikTok_Shop-000000?style=for-the-badge&logo=tiktok&logoColor=yellow)](https://www.tiktok.com/@renpwn/shop)
-[![Tokopedia](https://img.shields.io/badge/Tokopedia-42B549?style=for-the-badge&logo=tokopedia&logoColor=white)](https://tokopedia.com/renpwn)
-[![Shopee](https://img.shields.io/badge/Shopee-EE4D2D?style=for-the-badge&logo=shopee&logoColor=white)](https://shopee.co.id/renpwn)
+[![GitHub](https://img.shields.io/badge/GitHub-h@rdknockdays-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardknockdays) [![Instagram](https://img.shields.io/badge/Instagram-@renpwn__ren-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/renpwn_ren) [![YouTube](https://img.shields.io/badge/YouTube-@RenPwn-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RenPwn) [![TikTok](https://img.shields.io/badge/TikTok-@renpwn-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@renpwn) [![TikTok Shop](https://img.shields.io/badge/TikTok_Shop-RenPwn-000000?style=for-the-badge&logo=tiktok&logoColor=yellow)](https://www.tiktok.com/@renpwn/shop) [![Tokopedia](https://img.shields.io/badge/Tokopedia-renpwn-42B549?style=for-the-badge&logo=tokopedia&logoColor=white)](https://tokopedia.com/renpwn) [![Shopee](https://img.shields.io/badge/Shopee-renpwn-EE4D2D?style=for-the-badge&logo=shopee&logoColor=white)](https://shopee.co.id/renpwn)
+
 
